@@ -29,5 +29,4 @@
 <div style="display: inline-block">
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <span><i class="devicon-github-original" style="font-size: 2rem; color: white"></i></span>
 </div>
